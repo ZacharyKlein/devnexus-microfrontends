@@ -1,5 +1,7 @@
 # DevNexus - Microfrontends Demo
 
+This application demonstrates a UI container (`micro-container`) composed of two microfrontends (`micro-app1` and `micro-app2`), backed by a Micronaut application (`backend`) exposing two separate API endpoints that are consumed by each respective SPA. 
+
 To run, start the two `micro-app*` applications by running the following command in each directory:
 
 ```
