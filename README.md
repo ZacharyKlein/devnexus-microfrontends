@@ -31,3 +31,9 @@ To refresh the weather forecast, run the following command:
 ```
 curl -X POST http://localhost:8080/refresh
 ```
+
+## Micronaut SPA Demo
+
+SPA/Micronaut demo (w/o microfrontends)
+
+https://github.com/ZacharyKlein/micronaut-spa-webinar
