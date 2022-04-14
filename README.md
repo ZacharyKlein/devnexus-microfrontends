@@ -29,7 +29,7 @@ Once everything is running, browse to http://localhost:8000
 To refresh the weather forecast, run the following command:
 
 ```
-curl -X POST http://localhost:8080/refresh
+curl -X POST http://localhost:8082/refresh
 ```
 
 ## Micronaut SPA Demo

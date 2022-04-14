@@ -2,6 +2,7 @@ micronaut:
   application:
     name: backend
   server:
+    port: 8082
     cors:
       enabled: true
 netty:

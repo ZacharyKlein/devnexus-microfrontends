@@ -19,7 +19,7 @@ module.exports = {
           template: './public/index.html',
         }),
         new webpack.DefinePlugin({
-            'process.env': { REACT_APP_BACKEND_API_BASE_URL: `"http://localhost:8080"` },
+            'process.env': { REACT_APP_BACKEND_API_BASE_URL: `"http://localhost:8082"` },
         }),
     ],
     module: {
