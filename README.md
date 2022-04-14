@@ -37,3 +37,9 @@ curl -X POST http://localhost:8082/refresh
 SPA/Micronaut demo (w/o microfrontends)
 
 https://github.com/ZacharyKlein/micronaut-spa-webinar
+
+## Webinar Recording
+
+From an earlier version of this presentation.
+
+https://www.youtube.com/watch?v=UrNbL-AEyQc
